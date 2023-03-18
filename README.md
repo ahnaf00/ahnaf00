@@ -1,7 +1,7 @@
-![I am a web designer and developer](https://media.licdn.com/dms/image/D5616AQEBYmsqJe-BHg/profile-displaybackgroundimage-shrink_350_1400/0/1679143012958?e=1684368000&v=beta&t=OW2UiLByoTFYBqLkG8uIwcooHKUFIKJz_6pMefdFKYY)
-### Hi there 👋, my name is Ahnaf
-#### I am a web designer and developer
+![I am a Web Designer and Developer](https://media.licdn.com/dms/image/D5616AQEBYmsqJe-BHg/profile-displaybackgroundimage-shrink_350_1400/0/1679143012958?e=1684368000&v=beta&t=OW2UiLByoTFYBqLkG8uIwcooHKUFIKJz_6pMefdFKYY)
 
+### Hi there 👋, I'm  Ahnaf
+#### I am a Web Designer and Developer
 
 I'm Ahnaf, a professional frontend developer and web designer, working with HTML, CSS, JAVASCRIPT, PHP, LARAVEL for more than 3 years. I provide professional service in this section with professional skills
 
@@ -19,8 +19,6 @@ Skills: HTML / CSS / JS / PHP / LARAVEL
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahnaf00)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnaf00&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahnaf00)  
 
 ![GitHub metrics](https://metrics.lecoq.io/ahnaf00)  
 
