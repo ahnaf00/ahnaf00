@@ -1,4 +1,4 @@
-![I am a Web Designer and Developer](https://media.licdn.com/dms/image/D5616AQEBYmsqJe-BHg/profile-displaybackgroundimage-shrink_350_1400/0/1679143012958?e=1684368000&v=beta&t=OW2UiLByoTFYBqLkG8uIwcooHKUFIKJz_6pMefdFKYY)
+
 
 ### Hi there 👋, I'm  Ahnaf
 #### I am a Web Designer and Developer
