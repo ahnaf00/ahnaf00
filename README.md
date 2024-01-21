@@ -5,7 +5,7 @@
 
 I'm Ahnaf, a professional frontend developer and web designer, working with HTML, CSS, JAVASCRIPT, PHP, LARAVEL for more than 3 years. I provide professional service in this section with professional skills
 
-Skills: HTML / CSS / JS / PHP / LARAVEL 
+Skills: JS / Vue/ PHP / LARAVEL 
 
 - 🌱 I’m currently learning Java script 
 - 👯 I’m looking to collaborate on Web Design Project 
