@@ -54,6 +54,6 @@
 
 ###
 
-<p align="left">Hello! My name is Ahnaf, and I'm a web developer with expertise in HTML, CSS, JavaScript, PHP, Laravel, and Bootstrap.<br><br>With years of experience in web development, I have honed my skills to create dynamic, user-friendly, and visually appealing websites. My proficiency in HTML, CSS, and JavaScript allows me to create stunning web designs that are both functional and intuitive. I can work with various web frameworks and libraries, such as Bootstrap, to develop responsive and mobile-friendly web pages.<br><br>Moreover, I have a understanding of back-end web development, specifically with PHP and Laravel. I can build  web applications that offer seamless user experiences, fast loading times.<br><br>Overall, my expertise in web development and my ability to adapt to new technologies make me a valuable asset to any web development project. If you're looking for a skilled and reliable web developer, I would love to hear from you.</p>
+<img src="https://raw.githubusercontent.com/ahnaf00/ahnaf00/output/snake.svg" alt="Snake animation" />
 
 ###
