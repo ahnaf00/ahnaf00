@@ -21,6 +21,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
@@ -41,6 +43,13 @@
   <a href="https://www.facebook.com/ahnafananabir/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahnaf00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahnaf00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
