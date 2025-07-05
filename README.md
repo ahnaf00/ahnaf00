@@ -33,7 +33,7 @@
 ###
 
 <div align="left">
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE" target="_blank">
+  <a href="[https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE](https://codeforces.com/profile/ahnafanan)" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-red?style=for-the-badge&logo=codeforces&logoColor=white" height="35" alt="Codeforces logo" />
   </a>
 </div>
