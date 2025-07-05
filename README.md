@@ -33,6 +33,14 @@
 ###
 
 <div align="left">
+  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-red?style=for-the-badge&logo=codeforces&logoColor=white" height="35" alt="Codeforces logo" />
+  </a>
+</div>
+
+###
+
+<div align="left">
   <a href="https://www.behance.net/ahnaf_anan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo" />
   </a>
