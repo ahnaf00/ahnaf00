@@ -38,6 +38,23 @@
   </a>
 </div>
 
+<div align="left">
+  <a href="https://www.codechef.com/users/ahnaf01" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="35" alt="CodeChef logo" />
+  </a>
+</div>
+
+<div align="left">
+  <a href="https://leetcode.com/u/ahnafanan/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" height="35" alt="LeetCode logo" />
+  </a>
+</div>
+
+<div align="left">
+  <a href="https://www.hackerrank.com/profile/ahnaf01" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="35" alt="HackerRank logo" />
+  </a>
+</div>
 ###
 
 <div align="left">
