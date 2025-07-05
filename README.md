@@ -47,14 +47,14 @@
 
 ###
 
+<p align="left">Hello! My name is Ahnaf, and I'm a web developer with expertise in HTML, CSS, JavaScript, PHP, Laravel, and Bootstrap.<br><br>With years of experience in web development, I have honed my skills to create dynamic, user-friendly, and visually appealing websites. My proficiency in HTML, CSS, and JavaScript allows me to create stunning web designs that are both functional and intuitive. I can work with various web frameworks and libraries, such as Bootstrap, to develop responsive and mobile-friendly web pages.<br><br>Moreover, I have a understanding of back-end web development, specifically with PHP and Laravel. I can build web applications that offer seamless user experiences, fast loading times.<br><br>Overall, my expertise in web development and my ability to adapt to new technologies make me a valuable asset to any web development project. If you're looking for a skilled and reliable web developer, I would love to hear from you.</p>
+
+###
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ahnaf00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahnaf00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
-
-###
-
-<p align="left">Hello! My name is Ahnaf, and I'm a web developer with expertise in HTML, CSS, JavaScript, PHP, Laravel, and Bootstrap.<br><br>With years of experience in web development, I have honed my skills to create dynamic, user-friendly, and visually appealing websites. My proficiency in HTML, CSS, and JavaScript allows me to create stunning web designs that are both functional and intuitive. I can work with various web frameworks and libraries, such as Bootstrap, to develop responsive and mobile-friendly web pages.<br><br>Moreover, I have a understanding of back-end web development, specifically with PHP and Laravel. I can build web applications that offer seamless user experiences, fast loading times.<br><br>Overall, my expertise in web development and my ability to adapt to new technologies make me a valuable asset to any web development project. If you're looking for a skilled and reliable web developer, I would love to hear from you.</p>
 
 ###
